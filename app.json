@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name":"Friend-Space",
+    "icon": "./images/appicon.png",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "slug": "friend-space",
+    "ios": {
+      "bundleIdentifier": "com.ssp.friendspace"
+    },
+    "android": {
+      "package": "com.ssp.friendspace"
+    }
+  }
+}
